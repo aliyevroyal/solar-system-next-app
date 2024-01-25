@@ -1,7 +1,9 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
     <div>
-      <p>paragraph</p>
+      <Link href="/home">home</Link>
     </div>
   );
 }
