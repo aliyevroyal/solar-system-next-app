@@ -2,8 +2,8 @@
 const nextConfig = {
   rewrites: async () => [
     {
-      source: "/solar-system",
-      destination: "/solar-system.html",
+      source: "/home",
+      destination: "/home.html",
     },
   ],
 };
