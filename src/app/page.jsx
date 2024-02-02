@@ -1,9 +1,10 @@
 import Link from "next/link";
+import styles from "./styles.module.css";
 
-export default function Home() {
+export default function HomePage() {
   return (
-    <div>
-      <Link href="/home">home</Link>
+    <div className={styles.wrapper}>
+      <Link href="/home">Home</Link>
     </div>
   );
 }

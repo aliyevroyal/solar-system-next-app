@@ -1,0 +1,67 @@
+{
+  "celestialBodies": [
+    {
+      "id": 1,
+      "name": "sun",
+      "resourceType": "image",
+      "url": "/images/sun.png",
+      "description": "sun"
+    },
+    {
+      "id": 2,
+      "name": "mercury",
+      "resourceType": "image",
+      "url": "/images/mercury.png",
+      "description": "sun"
+    },
+    {
+      "id": 3,
+      "name": "venus",
+      "resourceType": "image",
+      "url": "/images/venus.png",
+      "description": "sun"
+    },
+    {
+      "id": 4,
+      "name": "earth",
+      "resourceType": "animation",
+      "url": "https://my.spline.design/photorealearth-88fcd62f04f6164f4ec3987e8d381650/",
+      "description": "sun"
+    },
+    {
+      "id": 5,
+      "name": "mars",
+      "resourceType": "animation",
+      "url": "https://my.spline.design/marsplanet-c8534e15d8106fe0fb827ff1b85fa7c7/",
+      "description": "sun"
+    },
+    {
+      "id": 6,
+      "name": "jupiter",
+      "resourceType": "animation",
+      "url": "https://my.spline.design/jupiter-b206abf51da69d65c68f83ddd61703a9/",
+      "description": "sun"
+    },
+    {
+      "id": 7,
+      "name": "saturn",
+      "resourceType": "animation",
+      "url": "https://my.spline.design/saturnus-462b66c50a6817cb3ba96b9830837272/",
+      "description": "sun"
+    },
+    {
+      "id": 8,
+      "name": "uranus",
+      "resourceType": "image",
+      "url": "/images/uranus.png",
+      "description": "sun"
+    },
+    {
+      "id": 9,
+      "name": "neptune",
+      "resourceType": "image",
+      "url": "/images/neptune.png",
+      "description": "sun"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.wrapper {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100vw;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.6;
+}
+
+@media (max-width: 999.98px) {
+  .wrapper {
+    background-image: url("/images/bg-glow-small.png");
+  }
+}
+
+@media (min-width: 1000px) {
+  .wrapper {
+    background-image: url("/images/bg-glow-large.png");
+  }
+}
